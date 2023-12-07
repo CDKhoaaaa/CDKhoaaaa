@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cao Đăng Khoa</h1>
 <h3 align="center">A passionate data scientist from Vietnam</h3>
 
-- 👨💻 All of my projects are available at [https://cdkhoaaaa.github.io/My-Portfolio/](https://cdkhoaaaa.github.io/My-Portfolio/)
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAF2BIGWkgI/Sld4e_CgWnyBeE30p8ovQw/view?utm_content=DAF2BIGWkgI&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF2BIGWkgI/Sld4e_CgWnyBeE30p8ovQw/view?utm_content=DAF2BIGWkgI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+<img src = './svg/dangkhoa.svg'> </>
 
 <p align="left">
 </p>
