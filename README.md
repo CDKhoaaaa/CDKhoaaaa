@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cao Đăng Khoa</h1>
 <h3 align="center">A passionate data scientist from Vietnam</h3>
 
-<img src = './svg/dangkhoa.svg'> </>
+<img src = './svg/dangkhoa.svg'>
 
 <p align="left">
 </p>
